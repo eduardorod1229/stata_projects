@@ -1993,3 +1993,389 @@ replace per_urb_birth_yr = 43.00 if decenial==2 & statefip==55 //Wisconsin
 replace per_urb_birth_yr = 29.60 if decenial==2 & statefip==56 //Wyoming
 
 
+/// Decenial 1920
+
+replace per_urb_birth_yr = 21.70 if decenial==3 & statefip==1 //Alabama
+replace per_urb_birth_yr = 5.60 if decenial==3 & statefip==2 //Alaska
+replace per_urb_birth_yr = 36.10 if decenial==3 & statefip==4 //Arizona
+replace per_urb_birth_yr = 16.60 if decenial==3 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 67.90 if decenial==3 & statefip==6 //California
+replace per_urb_birth_yr = 48.20 if decenial==3 & statefip==8 //Colorado
+replace per_urb_birth_yr = 67.80 if decenial==3 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 54.20 if decenial==3 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==3 & statefip==11 //D.C
+replace per_urb_birth_yr = 36.50 if decenial==3 & statefip==12 //Florida
+replace per_urb_birth_yr = 25.10 if decenial==3 & statefip==13 //Georgia
+replace per_urb_birth_yr = 36.10 if decenial==3 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 27.60 if decenial==3 & statefip==16 //Idaho
+replace per_urb_birth_yr = 67.90 if decenial==3 & statefip==17 //Illinois
+replace per_urb_birth_yr = 50.60 if decenial==3 & statefip==18 //Indiana
+replace per_urb_birth_yr = 36.40 if decenial==3 & statefip==19 //Iowa
+replace per_urb_birth_yr = 34.80 if decenial==3 & statefip==20 //Kansas
+replace per_urb_birth_yr = 26.20 if decenial==3 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 34.90 if decenial==3 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 39.00 if decenial==3 & statefip==23 //Maine
+replace per_urb_birth_yr = 60.00 if decenial==3 & statefip==24 //Maryland
+replace per_urb_birth_yr = 90.00 if decenial==3 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 61.10 if decenial==3 & statefip==26 //Michigan
+replace per_urb_birth_yr = 44.10 if decenial==3 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 13.40 if decenial==3 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 46.60 if decenial==3 & statefip==29 //Missouri
+replace per_urb_birth_yr = 31.30 if decenial==3 & statefip==30 //Montana
+replace per_urb_birth_yr = 31.30 if decenial==3 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 19.70 if decenial==3 & statefip==32 //Nevada
+replace per_urb_birth_yr = 56.50 if decenial==3 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 79.90 if decenial==3 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 18.00 if decenial==3 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 82.70 if decenial==3 & statefip==36 //New York
+replace per_urb_birth_yr = 19.20 if decenial==3 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 13.60 if decenial==3 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 63.80 if decenial==3 & statefip==39 //Ohio
+replace per_urb_birth_yr = 26.50 if decenial==3 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 49.80 if decenial==3 & statefip==41 //Oregon
+replace per_urb_birth_yr = 65.10 if decenial==3 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 91.90 if decenial==3 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 17.50 if decenial==3 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 16.00 if decenial==3 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 26.10 if decenial==3 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 32.40 if decenial==3 & statefip==48 //Texas
+replace per_urb_birth_yr = 48.00 if decenial==3 & statefip==49 //Utah
+replace per_urb_birth_yr = 31.20 if decenial==3 & statefip==50 //Vermont
+replace per_urb_birth_yr = 29.20 if decenial==3 & statefip==51 //Virginia
+replace per_urb_birth_yr = 54.80 if decenial==3 & statefip==53 //Washington
+replace per_urb_birth_yr = 25.20 if decenial==3 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 47.30 if decenial==3 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 29.40 if decenial==3 & statefip==56 //Wyoming
+
+
+/// Decenial 1930
+
+replace per_urb_birth_yr = 28.10 if decenial==4 & statefip==1 //Alabama
+replace per_urb_birth_yr = 13.20 if decenial==4 & statefip==2 //Alaska
+replace per_urb_birth_yr = 34.40 if decenial==4 & statefip==4 //Arizona
+replace per_urb_birth_yr = 20.60 if decenial==4 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 73.30 if decenial==4 & statefip==6 //California
+replace per_urb_birth_yr = 50.20 if decenial==4 & statefip==8 //Colorado
+replace per_urb_birth_yr = 70.40 if decenial==4 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 51.70 if decenial==4 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==4 & statefip==11 //D.C
+replace per_urb_birth_yr = 51.70 if decenial==4 & statefip==12 //Florida
+replace per_urb_birth_yr = 30.80 if decenial==4 & statefip==13 //Georgia
+replace per_urb_birth_yr = 53.70 if decenial==4 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 29.10 if decenial==4 & statefip==16 //Idaho
+replace per_urb_birth_yr = 73.90 if decenial==4 & statefip==17 //Illinois
+replace per_urb_birth_yr = 55.50 if decenial==4 & statefip==18 //Indiana
+replace per_urb_birth_yr = 39.60 if decenial==4 & statefip==19 //Iowa
+replace per_urb_birth_yr = 38.80 if decenial==4 & statefip==20 //Kansas
+replace per_urb_birth_yr = 30.60 if decenial==4 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 39.70 if decenial==4 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 40.30 if decenial==4 & statefip==23 //Maine
+replace per_urb_birth_yr = 59.80 if decenial==4 & statefip==24 //Maryland
+replace per_urb_birth_yr = 90.20 if decenial==4 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 68.20 if decenial==4 & statefip==26 //Michigan
+replace per_urb_birth_yr = 49.00 if decenial==4 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 16.90 if decenial==4 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 51.20 if decenial==4 & statefip==29 //Missouri
+replace per_urb_birth_yr = 33.70 if decenial==4 & statefip==30 //Montana
+replace per_urb_birth_yr = 35.30 if decenial==4 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 37.80 if decenial==4 & statefip==32 //Nevada
+replace per_urb_birth_yr = 58.70 if decenial==4 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 82.60 if decenial==4 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 25.20 if decenial==4 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 83.60 if decenial==4 & statefip==36 //New York
+replace per_urb_birth_yr = 25.50 if decenial==4 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 16.60 if decenial==4 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 67.80 if decenial==4 & statefip==39 //Ohio
+replace per_urb_birth_yr = 34.30 if decenial==4 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 51.30 if decenial==4 & statefip==41 //Oregon
+replace per_urb_birth_yr = 67.80 if decenial==4 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 92.40 if decenial==4 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 21.30 if decenial==4 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 18.90 if decenial==4 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 34.30 if decenial==4 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 41.00 if decenial==4 & statefip==48 //Texas
+replace per_urb_birth_yr = 52.40 if decenial==4 & statefip==49 //Utah
+replace per_urb_birth_yr = 33.00 if decenial==4 & statefip==50 //Vermont
+replace per_urb_birth_yr = 32.40 if decenial==4 & statefip==51 //Virginia
+replace per_urb_birth_yr = 56.60 if decenial==4 & statefip==53 //Washington
+replace per_urb_birth_yr = 28.40 if decenial==4 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 52.90 if decenial==4 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 31.10 if decenial==4 & statefip==56 //Wyoming
+
+
+
+/// Decenial 1940
+
+replace per_urb_birth_yr = 30.20 if decenial==5 & statefip==1 //Alabama
+replace per_urb_birth_yr = 24.00 if decenial==5 & statefip==2 //Alaska
+replace per_urb_birth_yr = 34.80 if decenial==5 & statefip==4 //Arizona
+replace per_urb_birth_yr = 22.20 if decenial==5 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 71.00 if decenial==5 & statefip==6 //California
+replace per_urb_birth_yr = 52.60 if decenial==5 & statefip==8 //Colorado
+replace per_urb_birth_yr = 67.80 if decenial==5 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 52.30 if decenial==5 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==5 & statefip==11 //D.C
+replace per_urb_birth_yr = 55.10 if decenial==5 & statefip==12 //Florida
+replace per_urb_birth_yr = 34.40 if decenial==5 & statefip==13 //Georgia
+replace per_urb_birth_yr = 62.50 if decenial==5 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 33.70 if decenial==5 & statefip==16 //Idaho
+replace per_urb_birth_yr = 73.60 if decenial==5 & statefip==17 //Illinois
+replace per_urb_birth_yr = 55.10 if decenial==5 & statefip==18 //Indiana
+replace per_urb_birth_yr = 42.70 if decenial==5 & statefip==19 //Iowa
+replace per_urb_birth_yr = 41.90 if decenial==5 & statefip==20 //Kansas
+replace per_urb_birth_yr = 29.80 if decenial==5 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 41.50 if decenial==5 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 40.50 if decenial==5 & statefip==23 //Maine
+replace per_urb_birth_yr = 59.30 if decenial==5 & statefip==24 //Maryland
+replace per_urb_birth_yr = 89.40 if decenial==5 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 65.70 if decenial==5 & statefip==26 //Michigan
+replace per_urb_birth_yr = 49.80 if decenial==5 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 19.80 if decenial==5 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 51.80 if decenial==5 & statefip==29 //Missouri
+replace per_urb_birth_yr = 37.80 if decenial==5 & statefip==30 //Montana
+replace per_urb_birth_yr = 39.10 if decenial==5 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 39.30 if decenial==5 & statefip==32 //Nevada
+replace per_urb_birth_yr = 57.60 if decenial==5 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 81.60 if decenial==5 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 33.20 if decenial==5 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 82.80 if decenial==5 & statefip==36 //New York
+replace per_urb_birth_yr = 27.30 if decenial==5 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 20.60 if decenial==5 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 66.80 if decenial==5 & statefip==39 //Ohio
+replace per_urb_birth_yr = 37.60 if decenial==5 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 48.80 if decenial==5 & statefip==41 //Oregon
+replace per_urb_birth_yr = 66.50 if decenial==5 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 91.60 if decenial==5 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 24.50 if decenial==5 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 24.60 if decenial==5 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 35.20 if decenial==5 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 45.40 if decenial==5 & statefip==48 //Texas
+replace per_urb_birth_yr = 55.50 if decenial==5 & statefip==49 //Utah
+replace per_urb_birth_yr = 34.30 if decenial==5 & statefip==50 //Vermont
+replace per_urb_birth_yr = 35.30 if decenial==5 & statefip==51 //Virginia
+replace per_urb_birth_yr = 53.10 if decenial==5 & statefip==53 //Washington
+replace per_urb_birth_yr = 28.10 if decenial==5 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 53.50 if decenial==5 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 37.30 if decenial==5 & statefip==56 //Wyoming
+
+
+/// Decenial 1950
+
+replace per_urb_birth_yr = 43.80 if decenial==6 & statefip==1 //Alabama
+replace per_urb_birth_yr = 26.60 if decenial==6 & statefip==2 //Alaska
+replace per_urb_birth_yr = 55.50 if decenial==6 & statefip==4 //Arizona
+replace per_urb_birth_yr = 33.00 if decenial==6 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 80.70 if decenial==6 & statefip==6 //California
+replace per_urb_birth_yr = 62.70 if decenial==6 & statefip==8 //Colorado
+replace per_urb_birth_yr = 77.60 if decenial==6 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 62.60 if decenial==6 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==6 & statefip==11 //D.C
+replace per_urb_birth_yr = 65.50 if decenial==6 & statefip==12 //Florida
+replace per_urb_birth_yr = 45.30 if decenial==6 & statefip==13 //Georgia
+replace per_urb_birth_yr = 69.00 if decenial==6 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 42.90 if decenial==6 & statefip==16 //Idaho
+replace per_urb_birth_yr = 77.60 if decenial==6 & statefip==17 //Illinois
+replace per_urb_birth_yr = 59.90 if decenial==6 & statefip==18 //Indiana
+replace per_urb_birth_yr = 47.70 if decenial==6 & statefip==19 //Iowa
+replace per_urb_birth_yr = 52.10 if decenial==6 & statefip==20 //Kansas
+replace per_urb_birth_yr = 36.80 if decenial==6 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 54.80 if decenial==6 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 51.70 if decenial==6 & statefip==23 //Maine
+replace per_urb_birth_yr = 69.00 if decenial==6 & statefip==24 //Maryland
+replace per_urb_birth_yr = 84.40 if decenial==6 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 70.70 if decenial==6 & statefip==26 //Michigan
+replace per_urb_birth_yr = 54.50 if decenial==6 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 27.90 if decenial==6 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 61.50 if decenial==6 & statefip==29 //Missouri
+replace per_urb_birth_yr = 43.70 if decenial==6 & statefip==30 //Montana
+replace per_urb_birth_yr = 46.90 if decenial==6 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 57.20 if decenial==6 & statefip==32 //Nevada
+replace per_urb_birth_yr = 57.50 if decenial==6 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 86.60 if decenial==6 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 50.20 if decenial==6 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 85.50 if decenial==6 & statefip==36 //New York
+replace per_urb_birth_yr = 33.70 if decenial==6 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 26.60 if decenial==6 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 70.20 if decenial==6 & statefip==39 //Ohio
+replace per_urb_birth_yr = 51.00 if decenial==6 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 53.90 if decenial==6 & statefip==41 //Oregon
+replace per_urb_birth_yr = 70.50 if decenial==6 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 84.30 if decenial==6 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 36.70 if decenial==6 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 33.20 if decenial==6 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 44.10 if decenial==6 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 62.70 if decenial==6 & statefip==48 //Texas
+replace per_urb_birth_yr = 65.30 if decenial==6 & statefip==49 //Utah
+replace per_urb_birth_yr = 36.40 if decenial==6 & statefip==50 //Vermont
+replace per_urb_birth_yr = 47.00 if decenial==6 & statefip==51 //Virginia
+replace per_urb_birth_yr = 63.20 if decenial==6 & statefip==53 //Washington
+replace per_urb_birth_yr = 34.60 if decenial==6 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 57.90 if decenial==6 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 49.80 if decenial==6 & statefip==56 //Wyoming
+
+
+/// Decenial 1960
+
+replace per_urb_birth_yr = 54.80 if decenial==7 & statefip==1 //Alabama
+replace per_urb_birth_yr = 37.90 if decenial==7 & statefip==2 //Alaska
+replace per_urb_birth_yr = 74.50 if decenial==7 & statefip==4 //Arizona
+replace per_urb_birth_yr = 42.80 if decenial==7 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 86.40 if decenial==7 & statefip==6 //California
+replace per_urb_birth_yr = 73.70 if decenial==7 & statefip==8 //Colorado
+replace per_urb_birth_yr = 78.30 if decenial==7 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 65.60 if decenial==7 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==7 & statefip==11 //D.C
+replace per_urb_birth_yr = 73.90 if decenial==7 & statefip==12 //Florida
+replace per_urb_birth_yr = 55.30 if decenial==7 & statefip==13 //Georgia
+replace per_urb_birth_yr = 76.50 if decenial==7 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 47.50 if decenial==7 & statefip==16 //Idaho
+replace per_urb_birth_yr = 80.70 if decenial==7 & statefip==17 //Illinois
+replace per_urb_birth_yr = 62.40 if decenial==7 & statefip==18 //Indiana
+replace per_urb_birth_yr = 53.00 if decenial==7 & statefip==19 //Iowa
+replace per_urb_birth_yr = 61.00 if decenial==7 & statefip==20 //Kansas
+replace per_urb_birth_yr = 44.50 if decenial==7 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 63.30 if decenial==7 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 51.30 if decenial==7 & statefip==23 //Maine
+replace per_urb_birth_yr = 72.70 if decenial==7 & statefip==24 //Maryland
+replace per_urb_birth_yr = 83.60 if decenial==7 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 73.40 if decenial==7 & statefip==26 //Michigan
+replace per_urb_birth_yr = 62.20 if decenial==7 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 37.70 if decenial==7 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 66.60 if decenial==7 & statefip==29 //Missouri
+replace per_urb_birth_yr = 50.20 if decenial==7 & statefip==30 //Montana
+replace per_urb_birth_yr = 54.30 if decenial==7 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 70.40 if decenial==7 & statefip==32 //Nevada
+replace per_urb_birth_yr = 58.30 if decenial==7 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 88.60 if decenial==7 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 65.90 if decenial==7 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 85.40 if decenial==7 & statefip==36 //New York
+replace per_urb_birth_yr = 39.50 if decenial==7 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 35.20 if decenial==7 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 73.40 if decenial==7 & statefip==39 //Ohio
+replace per_urb_birth_yr = 62.90 if decenial==7 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 62.20 if decenial==7 & statefip==41 //Oregon
+replace per_urb_birth_yr = 71.60 if decenial==7 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 86.40 if decenial==7 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 41.20 if decenial==7 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 39.30 if decenial==7 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 52.30 if decenial==7 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 75.00 if decenial==7 & statefip==48 //Texas
+replace per_urb_birth_yr = 74.90 if decenial==7 & statefip==49 //Utah
+replace per_urb_birth_yr = 38.50 if decenial==7 & statefip==50 //Vermont
+replace per_urb_birth_yr = 55.60 if decenial==7 & statefip==51 //Virginia
+replace per_urb_birth_yr = 68.10 if decenial==7 & statefip==53 //Washington
+replace per_urb_birth_yr = 38.20 if decenial==7 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 63.80 if decenial==7 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 56.80 if decenial==7 & statefip==56 //Wyoming
+
+
+
+/// Decenial 1960
+
+replace per_urb_birth_yr = 54.80 if decenial==7 & statefip==1 //Alabama
+replace per_urb_birth_yr = 37.90 if decenial==7 & statefip==2 //Alaska
+replace per_urb_birth_yr = 74.50 if decenial==7 & statefip==4 //Arizona
+replace per_urb_birth_yr = 42.80 if decenial==7 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 86.40 if decenial==7 & statefip==6 //California
+replace per_urb_birth_yr = 73.70 if decenial==7 & statefip==8 //Colorado
+replace per_urb_birth_yr = 78.30 if decenial==7 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 65.60 if decenial==7 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==7 & statefip==11 //D.C
+replace per_urb_birth_yr = 73.90 if decenial==7 & statefip==12 //Florida
+replace per_urb_birth_yr = 55.30 if decenial==7 & statefip==13 //Georgia
+replace per_urb_birth_yr = 76.50 if decenial==7 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 47.50 if decenial==7 & statefip==16 //Idaho
+replace per_urb_birth_yr = 80.70 if decenial==7 & statefip==17 //Illinois
+replace per_urb_birth_yr = 62.40 if decenial==7 & statefip==18 //Indiana
+replace per_urb_birth_yr = 53.00 if decenial==7 & statefip==19 //Iowa
+replace per_urb_birth_yr = 61.00 if decenial==7 & statefip==20 //Kansas
+replace per_urb_birth_yr = 44.50 if decenial==7 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 63.30 if decenial==7 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 51.30 if decenial==7 & statefip==23 //Maine
+replace per_urb_birth_yr = 72.70 if decenial==7 & statefip==24 //Maryland
+replace per_urb_birth_yr = 83.60 if decenial==7 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 73.40 if decenial==7 & statefip==26 //Michigan
+replace per_urb_birth_yr = 62.20 if decenial==7 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 37.70 if decenial==7 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 66.60 if decenial==7 & statefip==29 //Missouri
+replace per_urb_birth_yr = 50.20 if decenial==7 & statefip==30 //Montana
+replace per_urb_birth_yr = 54.30 if decenial==7 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 70.40 if decenial==7 & statefip==32 //Nevada
+replace per_urb_birth_yr = 58.30 if decenial==7 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 88.60 if decenial==7 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 65.90 if decenial==7 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 85.40 if decenial==7 & statefip==36 //New York
+replace per_urb_birth_yr = 39.50 if decenial==7 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 35.20 if decenial==7 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 73.40 if decenial==7 & statefip==39 //Ohio
+replace per_urb_birth_yr = 62.90 if decenial==7 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 62.20 if decenial==7 & statefip==41 //Oregon
+replace per_urb_birth_yr = 71.60 if decenial==7 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 86.40 if decenial==7 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 41.20 if decenial==7 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 39.30 if decenial==7 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 52.30 if decenial==7 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 75.00 if decenial==7 & statefip==48 //Texas
+replace per_urb_birth_yr = 74.90 if decenial==7 & statefip==49 //Utah
+replace per_urb_birth_yr = 38.50 if decenial==7 & statefip==50 //Vermont
+replace per_urb_birth_yr = 55.60 if decenial==7 & statefip==51 //Virginia
+replace per_urb_birth_yr = 68.10 if decenial==7 & statefip==53 //Washington
+replace per_urb_birth_yr = 38.20 if decenial==7 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 63.80 if decenial==7 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 56.80 if decenial==7 & statefip==56 //Wyoming
+
+
+
+/// Decenial 1970
+
+replace per_urb_birth_yr = 58.60 if decenial==8 & statefip==1 //Alabama
+replace per_urb_birth_yr = 56.90 if decenial==8 & statefip==2 //Alaska
+replace per_urb_birth_yr = 79.60 if decenial==8 & statefip==4 //Arizona
+replace per_urb_birth_yr = 50.00 if decenial==8 & statefip==5 //Arkansas
+replace per_urb_birth_yr = 90.90 if decenial==8 & statefip==6 //California
+replace per_urb_birth_yr = 78.50 if decenial==8 & statefip==8 //Colorado
+replace per_urb_birth_yr = 78.40 if decenial==8 & statefip==9 //Connecticut
+replace per_urb_birth_yr = 72.20 if decenial==8 & statefip==10 //Delaware
+replace per_urb_birth_yr = 100.0 if decenial==8 & statefip==11 //D.C
+replace per_urb_birth_yr = 81.70 if decenial==8 & statefip==12 //Florida
+replace per_urb_birth_yr = 60.30 if decenial==8 & statefip==13 //Georgia
+replace per_urb_birth_yr = 83.10 if decenial==8 & statefip==15 //Hawaii
+replace per_urb_birth_yr = 54.10 if decenial==8 & statefip==16 //Idaho
+replace per_urb_birth_yr = 83.20 if decenial==8 & statefip==17 //Illinois
+replace per_urb_birth_yr = 64.90 if decenial==8 & statefip==18 //Indiana
+replace per_urb_birth_yr = 57.20 if decenial==8 & statefip==19 //Iowa
+replace per_urb_birth_yr = 66.10 if decenial==8 & statefip==20 //Kansas
+replace per_urb_birth_yr = 52.30 if decenial==8 & statefip==21 //Kentucky
+replace per_urb_birth_yr = 66.50 if decenial==8 & statefip==22 //Lousiana
+replace per_urb_birth_yr = 50.80 if decenial==8 & statefip==23 //Maine
+replace per_urb_birth_yr = 76.60 if decenial==8 & statefip==24 //Maryland
+replace per_urb_birth_yr = 84.60 if decenial==8 & statefip==25 //Massachusetts
+replace per_urb_birth_yr = 74.00 if decenial==8 & statefip==26 //Michigan
+replace per_urb_birth_yr = 66.50 if decenial==8 & statefip==27 //Minnesota
+replace per_urb_birth_yr = 44.50 if decenial==8 & statefip==28 //Mississippi
+replace per_urb_birth_yr = 70.10 if decenial==8 & statefip==29 //Missouri
+replace per_urb_birth_yr = 53.40 if decenial==8 & statefip==30 //Montana
+replace per_urb_birth_yr = 61.50 if decenial==8 & statefip==31 //Nebraska
+replace per_urb_birth_yr = 80.90 if decenial==8 & statefip==32 //Nevada
+replace per_urb_birth_yr = 56.40 if decenial==8 & statefip==33 //New Hampshire
+replace per_urb_birth_yr = 88.90 if decenial==8 & statefip==34 //New Jersey
+replace per_urb_birth_yr = 69.80 if decenial==8 & statefip==35 //New Mexico
+replace per_urb_birth_yr = 85.70 if decenial==8 & statefip==36 //New York
+replace per_urb_birth_yr = 45.50 if decenial==8 & statefip==37 //North Carolina
+replace per_urb_birth_yr = 44.30 if decenial==8 & statefip==38 //North Dakota
+replace per_urb_birth_yr = 75.30 if decenial==8 & statefip==39 //Ohio
+replace per_urb_birth_yr = 68.00 if decenial==8 & statefip==40 //Oklahoma
+replace per_urb_birth_yr = 67.10 if decenial==8 & statefip==41 //Oregon
+replace per_urb_birth_yr = 71.50 if decenial==8 & statefip==42 //Pennsylvania
+replace per_urb_birth_yr = 87.10 if decenial==8 & statefip==44 //Rhode Island
+replace per_urb_birth_yr = 48.30 if decenial==8 & statefip==45 //South Carolina
+replace per_urb_birth_yr = 44.60 if decenial==8 & statefip==46 //South Dakota
+replace per_urb_birth_yr = 59.10 if decenial==8 & statefip==47 //Tennessee
+replace per_urb_birth_yr = 79.70 if decenial==8 & statefip==48 //Texas
+replace per_urb_birth_yr = 80.40 if decenial==8 & statefip==49 //Utah
+replace per_urb_birth_yr = 32.20 if decenial==8 & statefip==50 //Vermont
+replace per_urb_birth_yr = 63.20 if decenial==8 & statefip==51 //Virginia
+replace per_urb_birth_yr = 73.40 if decenial==8 & statefip==53 //Washington
+replace per_urb_birth_yr = 39.10 if decenial==8 & statefip==54 //West Virginia
+replace per_urb_birth_yr = 65.90 if decenial==8 & statefip==55 //Wisconsin
+replace per_urb_birth_yr = 60.50 if decenial==8 & statefip==56 //Wyoming
